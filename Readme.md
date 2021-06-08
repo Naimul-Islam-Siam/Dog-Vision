@@ -16,4 +16,4 @@ Details: https://www.kaggle.com/c/dog-breed-identification/overview/evaluation
 <br>
 <br>
 
-**Notebook:** [dog-vision](https://nbviewer.jupyter.org/github/Naimul-Islam-Siam/Dog-Vision/blob/master/dog_vision.ipynb)
+### Notebook: [dog-vision](https://nbviewer.jupyter.org/github/Naimul-Islam-Siam/Dog-Vision/blob/master/dog_vision.ipynb)
